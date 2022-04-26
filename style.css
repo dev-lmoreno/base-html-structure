@@ -1,0 +1,93 @@
+.main {
+    background-color: grey;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    background-color: green;
+    height: 15%;
+    width: 100%;
+}
+
+.nav {
+    background-color: red;
+    height: 5%;
+    width: 100%;
+}
+
+.content {
+    background-color: aqua;
+    height: 70%;
+    width: 100%;
+    display: inline-block;
+}
+
+.article {
+    background-color: blue;
+    height: 100%;
+    width: 70%;
+    float: left;
+}
+
+.article-header {
+    background-color: green;
+    height: 15%;
+    width: 100%;
+    float: left;
+}
+
+.article-content {
+    background-color: cornflowerblue;
+    height: 45%;
+    width: 100%;
+    float: left;
+}
+
+.article-section-first {
+    background-color: yellowgreen;
+    height: 15%;
+    width: 100%;
+    float: left;
+}
+
+.article-section-second {
+    background-color: plum;
+    height: 15%;
+    width: 100%;
+    float: left;
+}
+
+.article-footer {
+    background-color: darkorange;
+    height: 10%;
+    width: 100%;
+    float: left;
+}
+
+.right-side {
+    background-color: purple;
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+
+.aside-first {
+    background-color: aquamarine;
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+
+.aside-second {
+    background-color: blue;
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+
+.footer {
+    background-color: yellow;
+    height: 10%;
+    width: 100%;
+}
